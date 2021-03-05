@@ -1,4 +1,4 @@
-# command fot Git
+# commands fot Git
 ## repository
 ### git init
 ### git status
